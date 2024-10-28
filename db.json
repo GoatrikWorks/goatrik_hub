@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "test@example.com",
+      "name": "Test User",
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "profileImage": null,
+      "isPremium": false
+    }
+  ],
+  "activities": [
+    {
+      "id": "1",
+      "title": "Test Activity 1",
+      "timestamp": "2023-10-01T12:00:00.000Z",
+      "description": "This is a test activity."
+    },
+    {
+      "id": "2",
+      "title": "Test Activity 2",
+      "timestamp": "2023-10-02T15:30:00.000Z",
+      "description": "This is another test activity."
+    }
+  ]
+}
